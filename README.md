@@ -1,6 +1,7 @@
 # GeoStatistic : Spatial Analysis 
 
- ##Overview##
+ ## Overview
+ 
 In this tutorial, we will explore some applications of data science on spatial data using R language.
 
 Specifically, we will use:
