@@ -6,6 +6,7 @@ In this tutorial, we will explore some applications of data science on spatial d
 
 Specifically, we will use:
 
-Variogram to study spatial dependency between spatial data frame
-Kriging and Simulation to interpolate properties values in a spatial data frame.
+- Variogram to study spatial dependency between spatial data frame
+- Kriging and Simulation to interpolate properties values in a spatial data frame.
+
 Those technics are used a lot in mining area for resource estimation.
